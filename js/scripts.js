@@ -11,3 +11,6 @@ else if (value < 0) {
 if (value != 0) {
  console.log("wynik jest inny niż 0");
 }
+if (value === 0) {
+ console.log("wynik jest równy 0");
+}
